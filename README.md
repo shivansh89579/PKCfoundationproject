@@ -1,1 +1,2 @@
 # PKCfoundationproject
+The Pandey Kusum Foundation project involved designing and developing a website to enhance the foundation's online presence and operational efficiency. Leveraging JavaScript, React.js, HTML, and CSS for frontend development, the website provides an intuitive platform for showcasing the foundation's initiatives and managing user information. The project aimed to streamline engagement and support for the organization's charitable work in education, health, and women empowerment.
